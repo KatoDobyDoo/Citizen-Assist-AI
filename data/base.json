@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "tema": "Documentação",
+    "palavras_chave": ["rg", "identidade", "segunda via", "documentos"],
+    "orientacao": "Para emitir a 2ª via do RG, agende o atendimento no posto do Poupatempo ou Polícia Civil. Leve a certidão de nascimento ou casamento original e comprovante de residência.",
+    "fonte": "Portal de Serviços do Governo do Estado - poupatempo.sp.gov.br",
+    "data_verificacao": "2026-10-15"
+  },
+  {
+    "id": 2,
+    "tema": "Documentação",
+    "palavras_chave": ["cpf", "regularizar", "receita federal", "cadastro"],
+    "orientacao": "A regularização do CPF pode ser feita gratuitamente pelo site da Receita Federal. Caso haja pendência eleitoral, o atendimento pode exigir o envio de documentos pelo portal.",
+    "fonte": "Receita Federal do Brasil - gov.br/receitafederal",
+    "data_verificacao": "2026-10-18"
+  },
+  {
+    "id": 3,
+    "tema": "Documentação",
+    "palavras_chave": ["cnh", "habilitação", "renovação", "trânsito"],
+    "orientacao": "A renovação da CNH exige exame médico credenciado. O processo é iniciado online pelo portal do Detran, onde se emite a taxa de arrecadação e se agenda a perícia.",
+    "fonte": "Departamento Estadual de Trânsito (Detran)",
+    "data_verificacao": "2026-10-20"
+  },
+  {
+    "id": 4,
+    "tema": "Documentação",
+    "palavras_chave": ["passaporte", "polícia federal", "viagem", "emissão"],
+    "orientacao": "Para tirar o passaporte, preencha o formulário no site da Polícia Federal, pague a taxa GRU e agende a coleta de impressões digitais na unidade escolhida.",
+    "fonte": "Polícia Federal - gov.br/pf",
+    "data_verificacao": "2026-10-10"
+  },
+  {
+    "id": 5,
+    "tema": "Documentação",
+    "palavras_chave": ["carteira de trabalho", "ctps", "digital", "emprego"],
+    "orientacao": "A Carteira de Trabalho Digital é emitida automaticamente ao criar uma conta no gov.br. Não é mais necessária a versão física em papel para a maioria das contratações.",
+    "fonte": "Ministério do Trabalho e Emprego - gov.br/trabalho",
+    "data_verificacao": "2026-10-22"
+  },
+  {
+    "id": 6,
+    "tema": "Serviços",
+    "palavras_chave": ["sus", "cartão sus", "posto de saúde", "atendimento"],
+    "orientacao": "Para obter ou atualizar o Cartão Nacional de Saúde (SUS), compareça à Unidade Básica de Saúde (UBS) mais próxima com RG, CPF e comprovante de residência.",
+    "fonte": "Ministério da Saúde - gov.br/saude",
+    "data_verificacao": "2026-10-12"
+  },
+  {
+    "id": 7,
+    "tema": "Serviços",
+    "palavras_chave": ["água", "conta", "segunda via", "saneamento"],
+    "orientacao": "A segunda via da conta de água pode ser emitida informando o número do fornecimento ou CPF do titular no site oficial da concessionária local de saneamento.",
+    "fonte": "Companhia de Saneamento Local",
+    "data_verificacao": "2026-10-05"
+  },
+  {
+    "id": 8,
+    "tema": "Serviços",
+    "palavras_chave": ["luz", "energia", "troca de titularidade", "eletricidade"],
+    "orientacao": "A troca de titularidade da conta de energia elétrica é solicitada pelo site da distribuidora, anexando documento com foto e contrato de aluguel ou escritura.",
+    "fonte": "Agência Nacional de Energia Elétrica (ANEEL)",
+    "data_verificacao": "2026-10-14"
+  },
+  {
+    "id": 9,
+    "tema": "Serviços",
+    "palavras_chave": ["agendamento", "poupatempo", "atendimento presencial", "serviços públicos"],
+    "orientacao": "O agendamento para serviços presenciais em postos de atendimento é gratuito e deve ser feito exclusivamente pelos canais oficiais (aplicativo ou portal web oficial).",
+    "fonte": "Portal do Cidadão",
+    "data_verificacao": "2026-10-25"
+  },
+  {
+    "id": 10,
+    "tema": "Serviços",
+    "palavras_chave": ["inss", "aposentadoria", "extrato", "meu inss"],
+    "orientacao": "Consultas de extratos, agendamento de perícias e pedidos de benefícios do INSS devem ser feitos pelo portal Meu INSS ou pelo telefone 135.",
+    "fonte": "Instituto Nacional do Seguro Social - meu.inss.gov.br",
+    "data_verificacao": "2026-10-19"
+  },
+  {
+    "id": 11,
+    "tema": "Orientações Comunitárias",
+    "palavras_chave": ["coleta seletiva", "lixo", "reciclagem", "bairro"],
+    "orientacao": "Materiais recicláveis (papel, plástico, vidro e metal) devem ser higienizados e colocados na calçada nos dias específicos da rota de coleta seletiva do seu bairro.",
+    "fonte": "Secretaria Municipal de Meio Ambiente e Limpeza Urbana",
+    "data_verificacao": "2026-10-01"
+  },
+  {
+    "id": 12,
+    "tema": "Orientações Comunitárias",
+    "palavras_chave": ["vacinação", "vacina", "gripe", "dengue", "campanha"],
+    "orientacao": "As campanhas de vacinação ocorrem nas Unidades Básicas de Saúde. Consulte o calendário municipal para verificar faixas etárias e grupos prioritários vigentes.",
+    "fonte": "Vigilância Epidemiológica Municipal",
+    "data_verificacao": "2026-10-21"
+  },
+  {
+    "id": 13,
+    "tema": "Orientações Comunitárias",
+    "palavras_chave": ["poda de árvore", "árvore", "rua", "prefeitura"],
+    "orientacao": "A solicitação de poda de árvores em calçadas ou vias públicas deve ser registrada via central 156 ou aplicativo da prefeitura. É proibido realizar a poda por conta própria.",
+    "fonte": "Central de Atendimento ao Cidadão - 156",
+    "data_verificacao": "2026-10-11"
+  },
+  {
+    "id": 14,
+    "tema": "Orientações Comunitárias",
+    "palavras_chave": ["procon", "direito do consumidor", "reclamação", "compras"],
+    "orientacao": "Caso tenha problemas com produtos ou serviços não resolvidos com o fornecedor, abra uma reclamação no Procon apresentando nota fiscal, comprovantes e documento pessoal.",
+    "fonte": "Fundação de Proteção e Defesa do Consumidor (Procon)",
+    "data_verificacao": "2026-10-16"
+  },
+  {
+    "id": 15,
+    "tema": "Orientações Comunitárias",
+    "palavras_chave": ["iluminação pública", "lâmpada queimada", "rua escura", "reparo"],
+    "orientacao": "Para relatar lâmpadas queimadas em postes da rua, informe o endereço completo e o número de identificação do poste na central de atendimento da prefeitura municipal.",
+    "fonte": "Secretaria de Obras e Serviços Urbanos",
+    "data_verificacao": "2026-10-08"
+  }
+]
